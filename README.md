@@ -1,3 +1,8 @@
+
+<head>
+  <meta name="google-site-verification" content="NwPhBKey-LL1WhYydQ4JMMiKE-sREr72RuK86GmC0n0" />
+</head>
+<body>
 <h1 align="center">Hi there..👋, I'm Lokesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -28,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-weby&show_icons=true&locale=en" alt="lokesh-weby" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-weby&" alt="lokesh-weby" /></p>
+</body>
